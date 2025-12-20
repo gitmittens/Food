@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B ",
+        " W ",
+        " P "
+    ],
+    "key": {
+        "B": "minecraft:sweet_berries",
+        "W": "minecraft:wheat",
+        "P": "minecraft:paper"
+    },
+    "result": {
+        "id": "minecraft:bread",
+        "count": 1,
+        "components": {
+            "minecraft:custom_name": "§fBerry Muffin",
+            "minecraft:item_model": "food:berry_muffin",
+            "minecraft:food": {
+                "nutrition": 6,
+                "saturation": 3.6
+            }
+        }
+    }
+}
