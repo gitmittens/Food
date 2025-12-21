@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        " W ",
+        " P "
+    ],
+    "key": {
+        "C": "minecraft:cocoa_beans",
+        "W": "minecraft:wheat",
+        "P": "minecraft:paper"
+    },
+    "result": {
+        "id": "minecraft:bread",
+        "count": 1,
+        "components": {
+            "minecraft:custom_name": "§fChocolate Muffin",
+            "minecraft:item_model": "food:chocolate_muffin",
+            "minecraft:food": {
+                "nutrition": 4.8,
+                "saturation": 6
+            }
+        }
+    }
+}
