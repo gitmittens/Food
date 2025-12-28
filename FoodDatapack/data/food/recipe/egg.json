@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": "minecraft:egg",
+  "result": {
+    "id": "minecraft:apple",
+    "components": {
+      "minecraft:custom_name": "§fFried Egg",
+      "minecraft:item_model": "food:fried_egg",
+      "minecraft:food": {
+        "nutrition": 5,
+        "saturation": 8.5
+      }
+    }
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

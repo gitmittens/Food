@@ -12,7 +12,7 @@
     },
     "result": {
         "id": "minecraft:bread",
-        "count": 1,
+        "count": 3,
         "components": {
             "minecraft:custom_name": "§fChocolate Muffin",
             "minecraft:item_model": "food:chocolate_muffin",
