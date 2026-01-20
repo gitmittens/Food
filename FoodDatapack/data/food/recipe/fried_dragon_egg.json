@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smelting",
   "category": "food",
-  "ingredient": "minecraft:turtle_egg",
+  "ingredient": "minecraft:dragon_egg",
   "result": {
     "id": "minecraft:apple",
     "components": {
-      "minecraft:custom_name": "§fFried Turtle Egg",
-      "minecraft:item_model": "food:fried_turtle_egg",
+      "minecraft:custom_name": "§dFried Dragon Egg",
+      "minecraft:item_model": "food:fried_dragon_egg",
       "minecraft:food": {
-        "nutrition": 8,
-        "saturation": 8.5
+        "nutrition": 16,
+        "saturation": 17
       }
     }
   },
