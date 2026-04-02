@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "food:item/fried_turtle_egg"
+        "layer0": "food:item/egg/fried_egg"
     }
 }

@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "food:item/fried_turtle_egg"
+        "model": "food:item/muffin/berry_muffin"
     }
 }

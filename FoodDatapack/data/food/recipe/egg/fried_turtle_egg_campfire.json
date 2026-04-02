@@ -6,7 +6,7 @@
     "id": "minecraft:apple",
     "components": {
       "minecraft:custom_name": "§fFried Turtle Egg",
-      "minecraft:item_model": "food:fried_turtle_egg",
+      "minecraft:item_model": "food:egg/fried_turtle_egg",
       "minecraft:food": {
         "nutrition": 8,
         "saturation": 8.5

@@ -1,12 +1,12 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " G ",
+        " B ",
         " W ",
         " P "
     ],
     "key": {
-        "G": "minecraft:glow_berries",
+        "B": "minecraft:sweet_berries",
         "W": "minecraft:wheat",
         "P": "minecraft:paper"
     },
@@ -14,10 +14,10 @@
         "id": "minecraft:bread",
         "count": 3,
         "components": {
-            "minecraft:custom_name": "§fGlow Berry Muffin",
-            "minecraft:item_model": "food:glow_berry_muffin",
+            "minecraft:custom_name": "§fBerry Muffin",
+            "minecraft:item_model": "food:muffin/berry_muffin",
             "minecraft:food": {
-                "nutrition": 7,
+                "nutrition": 6,
                 "saturation": 3.6
             }
         }
