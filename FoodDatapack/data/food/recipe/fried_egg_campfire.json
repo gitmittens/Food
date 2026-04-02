@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:smelting",
+  "type": "minecraft:campfire_cooking",
   "category": "food",
   "ingredient": "#minecraft:eggs",
   "result": {
@@ -14,5 +14,5 @@
     }
   },
   "experience": 0.35,
-  "cookingtime": 200
+  "cookingtime": 600
 }

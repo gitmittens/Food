@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": "minecraft:dragon_egg",
+  "result": {
+    "id": "minecraft:apple",
+    "components": {
+      "minecraft:custom_name": "§dFried Dragon Egg",
+      "minecraft:item_model": "food:fried_dragon_egg",
+      "minecraft:food": {
+        "nutrition": 16,
+        "saturation": 17
+      }
+    }
+  },
+  "experience": 0.35,
+  "cookingtime": 600
+}
